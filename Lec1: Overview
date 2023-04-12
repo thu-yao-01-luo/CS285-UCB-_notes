@@ -1,1 +1,9 @@
 # Lecture 1-overview #  
+
+### RL & ML ###
+Data is not i.i.d.: previous outputs influence
+future inputs!
+• Ground truth answer is not known, only know
+if we succeeded or failed
+• more generally, we know the reward
+
